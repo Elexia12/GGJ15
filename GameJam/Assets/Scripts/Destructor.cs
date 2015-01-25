@@ -12,4 +12,13 @@ public class Destructor : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void OnTriggerEnter2D(Collider2D otro){
+		if (otro.tag == "Jugador") {
+			Debug.Break ();
+			return;
+		}
+
+		Destroy (otro.gameObject);
+	}
 }

@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Destructor.cs" />
      <Compile Include="Assets\Scripts\Generador.cs" />
      <Compile Include="Assets\Scripts\Levellauncher.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\RotacionDerecha.cs" />
      <Compile Include="Assets\Scripts\activarAnimacionConcreto.cs" />
      <Compile Include="Assets\Scripts\activarAnimacionFantasma.cs" />
