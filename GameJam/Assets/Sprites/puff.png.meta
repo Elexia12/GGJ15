@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: dfa689a11e2ff1248ad1222022223439
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: puff_0
+    21300002: puff_1
+    21300004: puff_2
+    21300006: puff_3
+    21300008: puff_4
+    21300010: puff_5
+    21300012: puff_6
+    21300014: puff_7
+    21300016: puff_8
+    21300018: puff_9
+    21300020: puff_10
+    21300022: puff_11
+    21300024: puff_12
+    21300026: puff_13
+    21300028: puff_14
+    21300030: puff_15
+    21300032: puff_16
+    21300034: puff_17
+    21300036: puff_18
+    21300038: puff_19
+    21300040: puff_20
+    21300042: puff_21
+    21300044: puff_22
+    21300046: puff_23
+    21300048: puff_24
+    21300050: puff_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: puff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1011
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 993
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 976
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 962
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 932
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 926
+        width: 144
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 922
+        width: 150
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 820
+        width: 150
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 818
+        width: 154
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 815
+        width: 158
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 813
+        width: 160
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 811
+        width: 164
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 809
+        width: 166
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 693
+        width: 172
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 691
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 689
+        width: 176
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 689
+        width: 178
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 179
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 565
+        width: 184
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 563
+        width: 184
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 437
+        width: 186
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 437
+        width: 186
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 940
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puff_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 932
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

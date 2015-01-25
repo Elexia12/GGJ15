@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 9017e94e7cca03a4fb7b9930fbd99239
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sin_0
+    21300002: Sin_1
+    21300004: Sin_2
+    21300006: Sin_3
+    21300008: Sin_4
+    21300010: Sin_5
+    21300012: Sin_6
+    21300014: Sin_7
+    21300016: Sin_8
+    21300018: Sin_9
+    21300020: Sin_10
+    21300022: Sin_11
+    21300024: Sin_12
+    21300026: Sin_13
+    21300028: Sin_14
+    21300030: Sin_15
+    21300032: Sin_16
+    21300034: Sin_17
+    21300036: Sin_18
+    21300038: Sin_19
+    21300040: Sin_20
+    21300042: Sin_21
+    21300044: Sin_22
+    21300046: Sin_23
+    21300048: Sin_24
+    21300050: Sin_25
+    21300052: Sin_26
+    21300054: Sin_27
+    21300056: Sin_28
+    21300058: Sin_29
+    21300060: Sin_30
+    21300062: Sin_31
+    21300064: Sin_32
+    21300066: Sin_33
+    21300068: Sin_34
+    21300070: Sin_35
+    21300072: Sin_36
+    21300074: Sin_37
+    21300076: Sin_38
+    21300078: Sin_39
+    21300080: Sin_40
+    21300082: Sin_41
+    21300084: Sin_42
+    21300086: Sin_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 887
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 889
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 890
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 890
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 889
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 888
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 887
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 885
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_8
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 883
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 731
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 731
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 730
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 731
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 731
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 731
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_15
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 731
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 733
+        width: 91
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 735
+        width: 91
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 586
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 587
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 588
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 589
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 590
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 590
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 589
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_25
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 587
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_26
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 585
+        width: 91
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 436
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 434
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 434
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 433
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 433
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 432
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 432
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 432
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 434
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 283
+        width: 91
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 285
+        width: 91
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 285
+        width: 91
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 286
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 287
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 288
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sin_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 287
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
