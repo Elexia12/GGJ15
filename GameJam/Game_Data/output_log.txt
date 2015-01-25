@@ -2,20 +2,55 @@ Initialize engine version: 4.6.1f1 (d1db7a1b5196)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics (ID=0xf31)
-    Vendor:   Intel
-    VRAM:     128 MB
+    Renderer: NVIDIA GeForce GT 640M (ID=0xfd2)
+    Vendor:   NVIDIA
+    VRAM:     989 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.313 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found.
 <RI> Input initialized.
-Platform assembly: C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\kalam\Documents\UCR\Juegos Unity\game\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Xia\Documents\GGJ2015\GameJam\Game_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 6.864791 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 1.459825 ms (FindLiveObjects: 0.026273 ms CreateObjectMapping: 0.013957 ms MarkObjects: 0.264788 ms  DeleteObjects: 0.006978 ms)
+
+UnloadTime: 0.789028 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 1.510730 ms (FindLiveObjects: 0.018473 ms CreateObjectMapping: 0.016010 ms MarkObjects: 0.326367 ms  DeleteObjects: 0.006568 ms)
+
+UnloadTime: 1.046837 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 1.482404 ms (FindLiveObjects: 0.014368 ms CreateObjectMapping: 0.015189 ms MarkObjects: 0.302967 ms  DeleteObjects: 0.009442 ms)
+
+UnloadTime: 0.825975 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 1.484046 ms (FindLiveObjects: 0.018884 ms CreateObjectMapping: 0.016420 ms MarkObjects: 0.312409 ms  DeleteObjects: 0.005747 ms)
+
+UnloadTime: 1.253331 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 1.498004 ms (FindLiveObjects: 0.017652 ms CreateObjectMapping: 0.015599 ms MarkObjects: 0.265198 ms  DeleteObjects: 0.006157 ms)
+
+UnloadTime: 0.857585 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 1.565740 ms (FindLiveObjects: 0.016010 ms CreateObjectMapping: 0.016420 ms MarkObjects: 0.381377 ms  DeleteObjects: 0.007799 ms)
+
